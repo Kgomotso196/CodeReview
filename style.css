@@ -1,0 +1,42 @@
+#image {
+  max-width: 100%;
+  height: auto;
+  margin-top: 1px;
+  margin-right: auto;
+  margin-bottom: 1px;
+  margin-left: auto;
+}
+
+#tribute-info {
+  display: block;
+}
+
+#main {
+  margin: 30px 8px;
+  padding: 15px;
+  border-radius: 5px;
+  background: #eee;
+}
+
+#headline {
+  text-align: center;
+  margin: 50px 0;
+}
+
+ul {
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.6;
+}
+
+blockquote {
+  font-style: italic;
+  max-width: 545px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+}
+
+p {
+  text-align: center;
+}
